@@ -7,7 +7,7 @@ This project generates a **music mashup** from multiple videos and sends the fin
 
 ---
 
-# 📌 Project Structure
+#  Project Structure
 
 This assignment contains **two parts**:
 
@@ -16,7 +16,7 @@ This assignment contains **two parts**:
 A **command-line Python script** named:
 
 ```
-<ROLLNO>.py
+102303068.py
 ```
 
 ### Functionality
@@ -75,19 +75,14 @@ The web app is deployed on **Render**:
 # 📷 Screenshots
 
 ## 🖥️ Web App Interface
-*(Add screenshot here)*
+![Web App](images/app.png)
 
 ## 📤 Email with Mashup
-*(Add screenshot here)*
+![Email Output](images/email.png)
 
 ## 💻 CLI Execution
-*(Add screenshot here)*
+![CLI Output](images/cli.png)
 
----
-
-# 👩‍💻 Author
-
-**Name:** Raiza Duggal  
 
 ---
 
@@ -111,7 +106,7 @@ Mashup-Assignment/
 ```
 
 
-# ✅ Conclusion
+#  Conclusion
 
 This project demonstrates:
 
@@ -121,6 +116,13 @@ This project demonstrates:
 - Cloud deployment  
 
 It provides a **complete end-to-end mashup generation system**.
+
+---
+
+
+# 👩‍💻 Author
+
+**Name:** Raiza Duggal  
 
 ---
 
